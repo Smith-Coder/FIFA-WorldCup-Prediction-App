@@ -2,6 +2,8 @@
 
 An AI-powered full-stack chatbot that delivers intelligent FIFA match predictions using real-time football data and Large Language Models (LLMs).
 
+> Note: This project is for educational purposes. Contributions, improvements, and bug reports are welcome — feel free to open issues or submit pull requests.
+
 Built with **FastAPI**, **React**, **API-Football**, and **Gemini/OpenAI-compatible APIs**, the application provides a conversational experience similar to ChatGPT for football fans and analysts.
 
 ---
@@ -272,6 +274,21 @@ This project provides:
 * ✅ React-powered responsive frontend
 * ✅ Modular and production-ready architecture
 * ✅ Easy integration with multiple LLM providers
+
+---
+
+## 📜 License
+
+## 🤝 Contributing
+
+This project is maintained for educational and learning purposes. Contributions, improvements, bug reports, and suggestions are very welcome. To contribute:
+
+- Fork the repository
+- Create a branch: `git checkout -b feature/your-feature`
+- Commit your changes: `git commit -m "Add some feature"`
+- Push to your branch and open a pull request
+
+Please follow the existing code style and add tests where applicable.
 
 ---
 
